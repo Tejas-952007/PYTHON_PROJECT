@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning **first year artificial intelligence and data science engineering**
 
+- the previous organisation for task in reposietry https://github.com/Tejas-952007/c---codealpha.git
 - 📫 How to reach me **tejasingle137@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
